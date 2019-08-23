@@ -1,8 +1,8 @@
 # 不定期更新样式内容
 
-### [鼠标悬停样式](Button/Button.qss)
+### [鼠标悬停按钮样式](Button/Button.qss)
 
-![鼠标悬停样式](Button/Test/ButtonQSS.gif)
+![鼠标悬停按钮样式](Button/Test/ButtonQSS.gif)
 
 ## 关于作者
 |Qt君公众号(每天更新)|Qt君|

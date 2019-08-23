@@ -7,6 +7,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
 
     MainWindow w;
+    w.setWindowTitle(QString::fromLocal8Bit("ButtonQSS by Qt君"));
     w.show();
 
     QFile file("../Button.qss");
